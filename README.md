@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=admansar&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=admansar&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=admansar&theme=algolia)

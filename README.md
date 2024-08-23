@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=admansar&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=admansar&theme=aura_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=admansar&theme=algolia&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=admansar&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=admansar&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=admansar&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=admansar&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=admansar&theme=aura_dark)
 
